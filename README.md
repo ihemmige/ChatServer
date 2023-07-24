@@ -17,4 +17,4 @@ Start each receiver/sender (users) and the server in their own terminal/command 
 
 
 
-*Built for assignment in JHU class Computer System Fundamentals.
+    *Built for assignment in JHU class Computer System Fundamentals.
