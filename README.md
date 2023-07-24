@@ -15,6 +15,8 @@ Start each receiver/sender (users) and the server in their own terminal/command 
 <img width="806" alt="image" src="https://github.com/ihemmige/ChatServer/assets/98292797/3b275ff0-e027-4059-ba45-fb9f06d9e9e8">
 
 
+<br />
+<br />
+<br />
 
-
-    *Built for assignment in JHU class Computer System Fundamentals.
+*Built for assignment in JHU class Computer System Fundamentals.
